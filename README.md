@@ -1,3 +1,11 @@
+# LD TechnoLogics Systems Development Initiative
+
+https://loloyd.github.io/
+
+This is a work in progress so please be patient.
+
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/loloyd/loloyd.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
